@@ -1,0 +1,11 @@
+.webgl{
+    position: fixed; /*Can use absolute as well*/
+    top: 0;
+    left: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
